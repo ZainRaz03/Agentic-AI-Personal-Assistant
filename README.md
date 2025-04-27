@@ -36,7 +36,7 @@ The system is built on a modular architecture, allowing each agent to operate in
 
 1. **Clone the Repository**
   
-   git clone https://github.com/ZainRaz04/Agentic-AI-Personal-Assistant.git
+   git clone https://github.com/ZainRaz03/Agentic-AI-Personal-Assistant.git
    cd multi-agent-ai-system
   
 
